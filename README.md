@@ -5,12 +5,6 @@ Hoschton, GA · jase@janestreetdigital.com · [linkedin.com/in/jase-languasco](h
 
 ---
 
-## Summary
-
-Senior full-stack engineer with 8+ years of deep Laravel and PHP expertise, building production systems across SaaS platforms, e-commerce, API integrations, and consumer applications. Known for tackling complex backend architecture — from payment system overhauls to incremental legacy modernization — while delivering polished frontends with React, Inertia.js, and Tailwind CSS. Comfortable owning a feature end-to-end and holding a codebase to a high standard.
-
----
-
 ## Experience
 
 ### Senior Software Developer — DirectMeds
